@@ -1,0 +1,28 @@
+{
+ "source": "Seewarndienst Emden / BSH, Nautische Warnnachrichten Nordsee",
+ "url": "https://www2.bsh.de/aktdat/nwn/nwn-nord.pdf",
+ "updated": "232045 utc okt 26",
+ "warnings": [
+  {
+   "number": 582,
+   "issued": "160500 utc okt 26",
+   "kind": "navtex",
+   "region": "ostfriesische inseln. norderney",
+   "text": "leuchtturm 'norderney'  53-43n 007-14e kennung geaendert in: blz (3) 15s.",
+   "positions": [
+    [
+     53.71667,
+     7.23333
+    ]
+   ]
+  },
+  {
+   "number": null,
+   "issued": null,
+   "kind": "national",
+   "region": "nordfriesische inseln. sylt",
+   "text": "gruene leuchttonne 'lister tief 3' verloescht.",
+   "positions": []
+  }
+ ]
+}
