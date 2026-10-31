@@ -1,0 +1,78 @@
+{
+ "source": "Seewarndienst Emden / BSH, Nautische Warnnachrichten Nordsee",
+ "url": "https://www2.bsh.de/aktdat/nwn/nwn-nord.pdf",
+ "updated": "301810 utc okt 26",
+ "warnings": [
+  {
+   "number": 604,
+   "issued": "290540 utc okt 26",
+   "kind": "navtex",
+   "region": "deutsche bucht. noerdlich offshore windpark 'deutsche bucht'",
+   "text": "munitionsfunde auf position: 54-19,2n  005-44,2e ankern und fischen im umkreis von 500 metern ist untersagt.",
+   "positions": [
+    [
+     54.32,
+     5.73667
+    ]
+   ]
+  },
+  {
+   "number": 603,
+   "issued": "280025 utc okt 26",
+   "kind": "navtex",
+   "region": "vtg terschelling-german bight",
+   "text": "leuchttonne 'tg 5'  53-50n 007-12e verschwunden.",
+   "positions": [
+    [
+     53.83333,
+     7.2
+    ]
+   ]
+  },
+  {
+   "number": 602,
+   "issued": "271130 utc okt 26",
+   "kind": "navtex",
+   "region": "vtg terschelling-german bight",
+   "text": "leuchttonne 'tg 1' circa 2500 meter oestlich vertrieben.",
+   "positions": []
+  },
+  {
+   "number": 599,
+   "issued": "261100 utc okt 26",
+   "kind": "navtex",
+   "region": "vtg terschelling-german bight",
+   "text": "nordkardinalleuchttonne 'sz-n' circa 1200 meter oestlich vertrieben.",
+   "positions": []
+  },
+  {
+   "number": 582,
+   "issued": "160500 utc okt 26",
+   "kind": "navtex",
+   "region": "ostfriesische inseln. norderney",
+   "text": "leuchtturm 'norderney'  53-43n 007-14e kennung geaendert in: blz (3) 15s.",
+   "positions": [
+    [
+     53.71667,
+     7.23333
+    ]
+   ]
+  },
+  {
+   "number": null,
+   "issued": null,
+   "kind": "national",
+   "region": "nordfriesische inseln",
+   "text": "leuchtfeuer 'pellworm' verloescht.",
+   "positions": []
+  },
+  {
+   "number": null,
+   "issued": null,
+   "kind": "national",
+   "region": "nordfriesische inseln. sylt",
+   "text": "gruene leuchttonne 'lister tief 3' verloescht.",
+   "positions": []
+  }
+ ]
+}
