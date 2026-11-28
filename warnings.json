@@ -1,0 +1,92 @@
+{
+ "source": "Seewarndienst Emden / BSH, Nautische Warnnachrichten Nordsee",
+ "url": "https://www2.bsh.de/aktdat/nwn/nwn-nord.pdf",
+ "updated": "280710 utc nov 26",
+ "warnings": [
+  {
+   "number": 641,
+   "issued": "280710 utc nov 26",
+   "kind": "navtex",
+   "region": "deutsche bucht.suedlich vtg terschelling german bight western approach",
+   "text": "unterwasserarbeiten durch ms 'osv genesis', rz 'eavg' entlang der verbindungslinie 54-05,6n 006-24,6e und 54-05,9n 007-06,9e sicherheitsabstand von 500 m erforderlich.",
+   "positions": [
+    [
+     54.09333,
+     6.41
+    ],
+    [
+     54.09833,
+     7.115
+    ]
+   ]
+  },
+  {
+   "number": 637,
+   "issued": "241530 utc nov 26",
+   "kind": "navtex",
+   "region": "ostfriesische inseln. spiekeroog",
+   "text": "leuchttonne 'otzumer balje' nach 53-48,52n  007-36,51e verlegt.",
+   "positions": [
+    [
+     53.80867,
+     7.6085
+    ]
+   ]
+  },
+  {
+   "number": 636,
+   "issued": "241500 utc nov 26",
+   "kind": "navtex",
+   "region": "deutsche bucht. nordschillgrund",
+   "text": "messstation ausgelegt auf 55-26,71n 005-48,08e gekennzeichnet mit 4 gelben leuchtspierentonnen blz.(5)g.20s 500 meter abstand erforderlich.",
+   "positions": [
+    [
+     55.44517,
+     5.80133
+    ]
+   ]
+  },
+  {
+   "number": 626,
+   "issued": "171725 utc nov 26",
+   "kind": "navtex",
+   "region": "vtg terschelling-german bight",
+   "text": "leuchttonne 'borkumriff'  53-47n 006-22e verloescht.",
+   "positions": [
+    [
+     53.78333,
+     6.36667
+    ]
+   ]
+  },
+  {
+   "number": 604,
+   "issued": "290540 utc okt 26",
+   "kind": "navtex",
+   "region": "deutsche bucht. noerdlich offshore windpark 'deutsche bucht'",
+   "text": "munitionsfunde auf position: 54-19,2n  005-44,2e ankern und fischen im umkreis von 500 metern ist untersagt.",
+   "positions": [
+    [
+     54.32,
+     5.73667
+    ]
+   ]
+  },
+  {
+   "number": null,
+   "issued": null,
+   "kind": "national",
+   "region": "nordfriesische inseln",
+   "text": "ansteuerungstonne 'vortrapptief' verloescht.",
+   "positions": []
+  },
+  {
+   "number": null,
+   "issued": null,
+   "kind": "national",
+   "region": "north frisian islands",
+   "text": "light buoy 'vortrapptief' unlit.",
+   "positions": []
+  }
+ ]
+}
